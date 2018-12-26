@@ -17,7 +17,7 @@ header {
 .header-wrapper{
    display:flex;    
    align-items:stretch;
-   margin-left:10%;
+   margin-left:20%;
    background-color: white;
 }
 .header-logo {
